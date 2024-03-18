@@ -9,7 +9,7 @@ Welcome to the documentation pages of the _[your product name]_!
 You can find here details about the _[your product name]_, from a high-level vision to low-level implementation decisions, a kind of Software Development Report, organized by type of activities: 
 
 * Business modeling 
-  * [Product Vision](#ProductVision)
+  * [Product Vision](#product-vision)
   * [Features](#Features)
   * [Elevator Pitch](ElevatorPitch)
 * [Requirements](#Requirements)
