@@ -10,7 +10,7 @@ You can find here details about the _[your product name]_, from a high-level vis
 
 * Business modeling 
   * [Product Vision](#Product-Vision)
-  * [Features](#Features--Assunmptions)
+  * [Features and Assumptions](#Features--Assunmptions)
   * [Elevator Pitch](Elevator-pitch)
 * [Requirements](#Requirements)
   * [User stories](#User-stories)
@@ -50,7 +50,7 @@ To learn more about how to write a good product vision, please see also:
 * [20 Inspiring Vision Statement Examples (2019 Updated), by lifehack.org](https://www.lifehack.org/articles/work/20-sample-vision-statement-for-the-new-startup.html)
 
 
-## Features & Assumptions
+## Features and Assumptions
 Indicate an  initial/tentative list of high-level features - high-level capabilities or desired services of the system that are necessary to deliver benefits to the users.
  - Feature XPTO - a few words to briefly describe the feature
  - Feature ABCD - ...
