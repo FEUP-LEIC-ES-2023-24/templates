@@ -10,7 +10,7 @@ You can find here details about the _[your product name]_, from a high-level vis
 
 * Business modeling 
   * [Product Vision](#Product-Vision)
-  * [Features and Assumptions](#Features-and-Assunmptions)
+  * [Features and Assumptions](#Features-and-Assumptions)
   * [Elevator Pitch](Elevator-pitch)
 * [Requirements](#Requirements)
   * [User stories](#User-stories)
