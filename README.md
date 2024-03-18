@@ -10,7 +10,7 @@ You can find here details about the _[your product name]_, from a high-level vis
 
 * Business modeling 
   * [Product Vision](#Product-Vision)
-  * [Features and Assumptions](#Features--Assunmptions)
+  * [Features and Assumptions](#Features-and-Assunmptions)
   * [Elevator Pitch](Elevator-pitch)
 * [Requirements](#Requirements)
   * [User stories](#User-stories)
@@ -18,9 +18,7 @@ You can find here details about the _[your product name]_, from a high-level vis
 * [Architecture and Design](#Architecture-And-Design)
   * [Logical architecture](#Logical-Architecture)
   * [Physical architecture](#Physical-Architecture)
-  * [Vertical prototype](#Prototype)
-* [Tests](#)
-* [Configuration and change management](#)
+  * [Vertical prototype](#Vertical-Prototype)
 * [Project management](#Project-Management)
 
 Contributions are expected to be made exclusively by the initial team, but we may open them to the community, after the course, in all areas and topics: requirements, technologies, development, experimentation, testing, etc.
