@@ -8,7 +8,7 @@ Welcome to the documentation pages of the _[your product name]_!
 
 You can find here details about the _[your product name]_, from a high-level vision to low-level implementation decisions, a kind of Software Development Report, organized by type of activities: 
 
-* Business modeling 
+* [Business modeling](#Business-Modelling) 
   * [Product Vision](#Product-Vision)
   * [Features and Assumptions](#Features-and-Assumptions)
   * [Elevator Pitch](#Elevator-pitch)
@@ -30,7 +30,9 @@ Thank you!
 *team members names and emails*
 
 ---
-## Product Vision
+## Business Modelling
+
+### Product Vision
 
 Start by defining a clear and concise vision for your app, to help members of the team, contributors, and users into focusing their often disparate views into a concise, visual, and short textual form. It provides a "high concept" of the product for marketers, developers, and managers.
 
@@ -48,7 +50,7 @@ To learn more about how to write a good product vision, please see also:
 * [20 Inspiring Vision Statement Examples (2019 Updated), by lifehack.org](https://www.lifehack.org/articles/work/20-sample-vision-statement-for-the-new-startup.html)
 
 
-## Features and Assumptions
+### Features and Assumptions
 Indicate an  initial/tentative list of high-level features - high-level capabilities or desired services of the system that are necessary to deliver benefits to the users.
  - Feature XPTO - a few words to briefly describe the feature
  - Feature ABCD - ...
@@ -56,7 +58,7 @@ Indicate an  initial/tentative list of high-level features - high-level capabili
 
 Optionally, indicate an initial/tentative list of assumptions that you are doing about the app and dependencies of the app to other systems.
 
-## Elevator Pitch
+### Elevator Pitch
 Draft a small text to help you quickly introduce and describe your product in a short time (lift travel time ~90 seconds) and a few words (~800 characters), a technique usually known as elevator pitch.
 
 Take a look at the following links to learn some techniques:
