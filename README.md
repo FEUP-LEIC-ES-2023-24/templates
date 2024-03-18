@@ -72,9 +72,9 @@ Take a look at the following links to learn some techniques:
 In this section, you should describe all kinds of requirements for your module: functional and non-functional requirements.
 
 ### User stories
-The user stories should be created as GitHub items in the Project board. 
-
 > [!Caution] This section will *not* exist in your report, it is here only to explain how you should describe the requirements of the product as **user stories**.
+
+The user stories should be created as GitHub items in the Project board. 
 
 A user story is a description of desired functionality told from the perspective of the user or customer. A starting template for the description of a user story is *As a < user role >, I want < goal > so that < reason >.*
 
